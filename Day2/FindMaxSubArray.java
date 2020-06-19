@@ -1,4 +1,5 @@
 //Find the max sub array and also start and end index of an array
+// check the git branch only
 class FindMaxSubArray{
     public static void findMaxSubArray(int[] arr){
 
