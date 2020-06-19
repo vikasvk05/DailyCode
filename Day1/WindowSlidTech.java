@@ -1,4 +1,5 @@
 // Time complexcity is O(n)
+// Sliding window concept
 class WindowSlidTech{
     static void slidWindow(int[] arr,int k){
         int max = 0;
